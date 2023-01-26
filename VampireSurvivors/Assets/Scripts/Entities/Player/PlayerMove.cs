@@ -37,6 +37,7 @@ public class PlayerMove : MonoBehaviour
         if(movementVector.x !=0)
         {
             lastHorizontalVector = movementVector.x;
+            
         }
         if(movementVector.y !=0)
         {

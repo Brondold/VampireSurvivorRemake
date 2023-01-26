@@ -1111,7 +1111,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 3
+          m_IntArgument: 4
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -1685,7 +1685,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24672ad1d2443ac42b2c17d8c2ba1918, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  musicOnStart: {fileID: 8300000, guid: b6d6dacd7fe191a448ea8296c5c8e45d, type: 3}
+  musicOnStart: {fileID: 8300000, guid: 4983cc5366767c54dad2729e6f856616, type: 3}
   timeToSwitch: 0
 --- !u!82 &457236820
 AudioSource:
@@ -1697,7 +1697,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: b6d6dacd7fe191a448ea8296c5c8e45d, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 4983cc5366767c54dad2729e6f856616, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -4640,7 +4640,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -67, y: 164}
+  m_AnchoredPosition: {x: -67, y: 141}
   m_SizeDelta: {x: 400, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1666533107
@@ -4663,7 +4663,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: ONI SURVIVOR
+  m_text: ONI SURVIVOR REMASTERED
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 7fd0426f54944a5498cd8545b3097eb1, type: 2}
   m_sharedMaterial: {fileID: 6627865369568195098, guid: 7fd0426f54944a5498cd8545b3097eb1, type: 2}
