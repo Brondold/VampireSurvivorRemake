@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -115,7 +115,2590 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 426
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efb0416145c8bb4aaa61723f077e4f6
+      internalID: -1854491172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 433
+        width: 192
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0a3359bc89a7d4789d15ccbf628798
+      internalID: 2015179444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 488
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72895a8f7c4530345b7f51018d9f7c6d
+      internalID: 1286309309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 364
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede1521c5063501428ded55ff560687b
+      internalID: -2138607362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 368
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99aac1a86c53eb48bb2f4e8ecf43b84
+      internalID: 538352623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 320
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876809014210e9e4ca34a4547a7fbf73
+      internalID: -995483001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 386
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a0b8f99144d1b41b9efc6f4b05f8ed
+      internalID: -1268761888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 414
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a207744bec73de49af61a0f1d58ffae
+      internalID: -1031857750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_8
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 384
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587c3264f4544814fbb5b3825b758622
+      internalID: -266151872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 400
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c39fb5215063f4da5bad77da8ec4f0
+      internalID: 1860234344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 387
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b801f3d52483a44fb51d690c8d3c7ba
+      internalID: 209944738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 385
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d62ae7e80faaf4fb3fb7654fd9a56c
+      internalID: -1361095975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 402
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edbf070433480c46a9134ff19e564b2
+      internalID: -1492625677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 388
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfe10f9ea7b44e42ae526389ae9b120
+      internalID: -1599142728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 386
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ab555b2545ea141b74705747b47884
+      internalID: -1194901078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 428
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcd3146968b6844bb211761f0ce8d93
+      internalID: 2004318012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_16
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 385
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f392fe4433342b43a8c37aaeb8eb968
+      internalID: -2140712338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 384
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5f58aeb525c4040a16aeeb43fe0d86
+      internalID: -1954333134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_18
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 386
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24aaf053cebdc3418fcd52d21a7fa71
+      internalID: -1059069586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 384
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637708e2e86db4048b2ceb1be2c340a5
+      internalID: -1285301754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_20
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 319
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d2093c80fedab44ae48116fab59961
+      internalID: 469433298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_21
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 368
+        width: 36
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23492c3a67b0c914c8429cf52e76e9f8
+      internalID: -1018918750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 112
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c6d85e7f6cd354dace980cf5fa2af7
+      internalID: -1930818727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 356
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6d010f1ba83d442aef25f5f20598f5
+      internalID: -2088227320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 290
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa74c63c0ad27c4d9beebf22a39daf0
+      internalID: -1697312558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 336
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27be2b27531793742a1ac5841aa502fe
+      internalID: -1064460612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_26
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 328
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ce23d7f178c9649bdfcd60957e4326
+      internalID: -1984833918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 288
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6f91804c2298b4d95e781aefd2b079
+      internalID: 81265227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_28
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 304
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da15b58736d5b6649a045d7de13b5fe8
+      internalID: -2536559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 248
+        width: 116
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919d5b8733db61744bc62a2bc2bdf005
+      internalID: -957112466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_30
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 216
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad33719877c4b44409c81cc9cc693654
+      internalID: 1343495729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 260
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9c9c006e4013b4883717d931248965
+      internalID: -230569897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_32
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 288
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827357ec90b3d8b4880382a76325df59
+      internalID: -1034431241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18802f6d2e2105043b61adfe5cf42345
+      internalID: -971291371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_34
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 275
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f462860bbbd10428364068e78f56a6
+      internalID: 1349730329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 278
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8ef417f316f7740b715e9acd0020c4
+      internalID: -1752134916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_36
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 265
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362f6616311934341b101a891c4d2172
+      internalID: 501677296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_37
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 281
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0162e8194f127e544a281c3d57fde83c
+      internalID: 648331973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_38
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 267
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2814f4c66b2d63b4cbcce59bd4f8e519
+      internalID: 254748109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 242
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46282e94097d4894c8cf0568fb370dc8
+      internalID: -109855897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 242
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ff8d7a5bc4672418f54c9459446453
+      internalID: -952830349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 242
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca6a9589c887bf438cb698aa5e65040
+      internalID: -1307100143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_42
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 240
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21192184bb21be46a6ecc65b13f2557
+      internalID: -2016611859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_43
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 268
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174207ab849364f43bae920baac8cf9e
+      internalID: -965109392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 237
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb1d0ed829612f4b9f696ac6262420e
+      internalID: -1118451802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_45
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 242
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee59378c96f15024ebc10f0ecc7649fa
+      internalID: -1161444443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 235
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266a557c475b2a44eb46e57988216b25
+      internalID: -1016903584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 236
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f8598da333ed84d9884c3be7ef9398
+      internalID: -732906487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 240
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14ef30a6fd795a42a56d33308ddd03b
+      internalID: 590752560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_49
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 245
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2796f2bd8f7536b49bba8222116c1fba
+      internalID: -982172410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_50
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 241
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83c7e465c000934797a2064788a3e98
+      internalID: -101131237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_51
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 243
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64eda6aa0d66314ca5c37c368044319
+      internalID: -886428474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_52
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 252
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c5b5b5c105ea84e94f925abd1b3f81
+      internalID: 523045134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 241
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783bbf5bbf13e1446a72aa9c32997f6b
+      internalID: 2069788909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc86847f9d8875f478f387031619555a
+      internalID: -1982409104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 237
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1a1a3f428367842abc3ca959eed08e
+      internalID: -2128154188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 242
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd588d6cd2c53bd4480ac87db4e5b279
+      internalID: -2110351747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_57
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 240
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6609fdb3cd09f8e44a9feca2ef11ae95
+      internalID: 1574589672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_58
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 240
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffa98c73067132449f02772bcbe52ea
+      internalID: 1861839323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_59
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 242
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268c53c8019e1d5459c01c34d58f5c3a
+      internalID: 1479824598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_60
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 243
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ae6fd1cec69994ebbcdd1d949c76ec
+      internalID: -319028590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_61
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 227
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c715604f2bed55f4183d18599e7cd75f
+      internalID: -1919426222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_62
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 227
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9370d41d381bc24489f813bb8619c8fb
+      internalID: 1384776150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_63
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 227
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4872e8cc12e80fe4f8c7f616fdae6c97
+      internalID: 51036121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 228
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869a761940473884bb0930b171370479
+      internalID: 1649279404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_65
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 216
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a81ba0314ec93745b98d3653a9cf769
+      internalID: 2048876285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_66
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 228
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d03b8a9276f4140a9ac28a7cc862d6
+      internalID: 1419380817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 236
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ffa0b635bd6e04e86a413bfd9fa3c2
+      internalID: -1341696573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_68
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 230
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b8ba7690bfba54f953d5e210abb796
+      internalID: 1680146999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_69
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 235
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6379c8ad2e2acd4daeabf1fc87bcada
+      internalID: 995595942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_70
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 236
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61cbfeb9d9ab5b49bebfc97e9eeca4c
+      internalID: 241619308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_71
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 226
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cf085d1a96c074fad1afd5cb42b78b
+      internalID: -677289619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_72
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 227
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98acf02a78e1e6d4ab38932882655789
+      internalID: -1210288616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_73
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 230
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c473e3481d0737e418f542c144e54143
+      internalID: -2083291700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_74
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 231
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a55ccff80f0f14f82f50032670f675
+      internalID: 1911422307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_75
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 226
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a8006ca5dcc8647bd6a5f02e2cef4e
+      internalID: 101727782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_76
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 223
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80925db268630854eb7c9f5fac7a5af5
+      internalID: 692945986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_77
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 229
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523153eb358b3874ea76f5be4fd684c9
+      internalID: -72381408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 229
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e4884934821f14bacf956b5280753b
+      internalID: 1427802168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_79
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d80fb4b698d512419130c27bc07055a
+      internalID: -1286990158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_80
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 228
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7339b0ab2a9fcb74d9abf14642d0a350
+      internalID: -592880884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_81
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 204
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ad2e336af65684b85a5fb310d2de78
+      internalID: -1480164807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_82
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 220
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a898ec79e7c624e8c74aa18008bfdb
+      internalID: -1742902642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_83
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 194
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19c72315d3f24245a305bb120ea7c98
+      internalID: 1435204840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_84
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 221
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fc4f7f293e4c54da636fec51db59df
+      internalID: 1161085554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_85
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 220
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a7d7855141b1b4f9e4d9f28f70b195
+      internalID: 1008246781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_86
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730fad4fc0fd6314cb63438d53271830
+      internalID: 1501409998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b435c67df57bbe489c745918e93a122
+      internalID: -381297121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_88
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 193
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3d405b13b14e540afdee1e04d41964
+      internalID: -1429116199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 193
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742adcd29329f084ab17b57bc0b133a2
+      internalID: 1891889164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd0b3f44c834124f99b0395aae12abe
+      internalID: 764247105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_91
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 193
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75cdfde44107c649bf77ed162f42c9a
+      internalID: -409346840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_92
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ecc4b0f2f50f641a38e1ef6c4faa4a
+      internalID: 39322578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_93
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 12
+        width: 222
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0608f6824ec3f47a4bb6ab5de7ace2
+      internalID: -1630113628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_94
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 153
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2204ab800e9c87b4c8c5a6b743dfcdb4
+      internalID: 23608242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_95
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 144
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cca7061fb3f2bb46b7b0e11c0fc7d9e
+      internalID: -402873354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_96
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 96
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eb7d1ca95a4474f88c6a36481553bd
+      internalID: -1970951867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_97
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 81
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aab65dde92f89a4aadd49c4680662f2
+      internalID: 1234708611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_98
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 94
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf7072c364e8ba458e780ff28a28963
+      internalID: 414079867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_99
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 81
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0ec988f40a31a469f19c26dd8436c2
+      internalID: -209389378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_100
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 59
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b5571eb3b7d6d4f97c2ab46f1a1e82
+      internalID: -294879249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_101
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 68
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123d7591bdd59694aa9995c5ca72f4c3
+      internalID: -2114600344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_102
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 80
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45e0635f34afce479afdaa6f966c64e
+      internalID: -821608406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_103
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 72
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fedcad4c93eb7645be9f8cd18fff6dc
+      internalID: -1867705716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_104
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 85
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbe82fcd2ec5224ca0a3c1707208fa4
+      internalID: -116311470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_105
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 83
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50184f56b43f2f4aa1cd51f1140bb11
+      internalID: -1879138658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_106
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 65
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a7a9a2796a0af4cb858b6c272a4077
+      internalID: -239581752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_107
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fded5b1714ab57142930f8dae5bf062e
+      internalID: 335428550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6109e6483591c1a4780e5a96e859357e
+      internalID: 1967434392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_109
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 48
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3ae69de812e8543a7d57aeb52399ad
+      internalID: 1350522068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_110
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 44
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94baad59f566bb2489afb1258a248fd8
+      internalID: -1394513638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_111
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 37
+        width: 112
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c29278bcc96544e92bb39edeb30506
+      internalID: -178764978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 51
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a3916380d6dac4f8ee0dc567580430
+      internalID: -181444450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_113
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 51
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cf87873a68deb478d80e9c28d91e17
+      internalID: -1101122819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_114
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 53
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb94b4f4d2d404e40934ecf423282adb
+      internalID: 1705372705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_115
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 31
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd559ec65a054743aa0d4d852d8f108
+      internalID: -1170265322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_116
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 40
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bfe01990820fa49b28ec7491c042a8
+      internalID: -333223028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_117
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 40
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3fbee3069a3e5468fe4e24b92158d0
+      internalID: -1979838293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_118
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 20
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2003c62cf13a774991116260eddda67
+      internalID: -422016842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_119
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 16
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fe1f27bfcb46c4892ecc2c6d54688b
+      internalID: -1138907895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_120
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 20
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1469cced99e959448b3b02f227ca6e3
+      internalID: 870437693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_121
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 32
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c86b2526e8df514c824a170701cdaf4
+      internalID: 810004438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Nibiru Village Outdoors_122
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 28
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57b1c6c60388f441a35d449236acb95
+      internalID: -1275240609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +2709,130 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PC Computer - Evoland II - Nibiru Village Outdoors_66: 1419380817
+      PC Computer - Evoland II - Nibiru Village Outdoors_54: -1982409104
+      PC Computer - Evoland II - Nibiru Village Outdoors_99: -209389378
+      PC Computer - Evoland II - Nibiru Village Outdoors_27: 81265227
+      PC Computer - Evoland II - Nibiru Village Outdoors_91: -409346840
+      PC Computer - Evoland II - Nibiru Village Outdoors_11: -1361095975
+      PC Computer - Evoland II - Nibiru Village Outdoors_75: 101727782
+      PC Computer - Evoland II - Nibiru Village Outdoors_62: 1384776150
+      PC Computer - Evoland II - Nibiru Village Outdoors_49: -982172410
+      PC Computer - Evoland II - Nibiru Village Outdoors_76: 692945986
+      PC Computer - Evoland II - Nibiru Village Outdoors_84: 1161085554
+      PC Computer - Evoland II - Nibiru Village Outdoors_103: -1867705716
+      PC Computer - Evoland II - Nibiru Village Outdoors_4: 538352623
+      PC Computer - Evoland II - Nibiru Village Outdoors_9: 1860234344
+      PC Computer - Evoland II - Nibiru Village Outdoors_105: -1879138658
+      PC Computer - Evoland II - Nibiru Village Outdoors_119: -1138907895
+      PC Computer - Evoland II - Nibiru Village Outdoors_37: 648331973
+      PC Computer - Evoland II - Nibiru Village Outdoors_81: -1480164807
+      PC Computer - Evoland II - Nibiru Village Outdoors_117: -1979838293
+      PC Computer - Evoland II - Nibiru Village Outdoors_114: 1705372705
+      PC Computer - Evoland II - Nibiru Village Outdoors_12: -1492625677
+      PC Computer - Evoland II - Nibiru Village Outdoors_13: -1599142728
+      PC Computer - Evoland II - Nibiru Village Outdoors_39: -109855897
+      PC Computer - Evoland II - Nibiru Village Outdoors_24: -1697312558
+      PC Computer - Evoland II - Nibiru Village Outdoors_92: 39322578
+      PC Computer - Evoland II - Nibiru Village Outdoors_68: 1680146999
+      PC Computer - Evoland II - Nibiru Village Outdoors_23: -2088227320
+      PC Computer - Evoland II - Nibiru Village Outdoors_61: -1919426222
+      PC Computer - Evoland II - Nibiru Village Outdoors_1: 2015179444
+      PC Computer - Evoland II - Nibiru Village Outdoors_2: 1286309309
+      PC Computer - Evoland II - Nibiru Village Outdoors_94: 23608242
+      PC Computer - Evoland II - Nibiru Village Outdoors_0: -1854491172
+      PC Computer - Evoland II - Nibiru Village Outdoors_107: 335428550
+      PC Computer - Evoland II - Nibiru Village Outdoors_60: -319028590
+      PC Computer - Evoland II - Nibiru Village Outdoors_106: -239581752
+      PC Computer - Evoland II - Nibiru Village Outdoors_22: -1930818727
+      PC Computer - Evoland II - Nibiru Village Outdoors_85: 1008246781
+      PC Computer - Evoland II - Nibiru Village Outdoors_104: -116311470
+      PC Computer - Evoland II - Nibiru Village Outdoors_109: 1350522068
+      PC Computer - Evoland II - Nibiru Village Outdoors_15: 2004318012
+      PC Computer - Evoland II - Nibiru Village Outdoors_112: -181444450
+      PC Computer - Evoland II - Nibiru Village Outdoors_115: -1170265322
+      PC Computer - Evoland II - Nibiru Village Outdoors_110: -1394513638
+      PC Computer - Evoland II - Nibiru Village Outdoors_36: 501677296
+      PC Computer - Evoland II - Nibiru Village Outdoors_120: 870437693
+      PC Computer - Evoland II - Nibiru Village Outdoors_10: 209944738
+      PC Computer - Evoland II - Nibiru Village Outdoors_77: -72381408
+      PC Computer - Evoland II - Nibiru Village Outdoors_18: -1059069586
+      PC Computer - Evoland II - Nibiru Village Outdoors_65: 2048876285
+      PC Computer - Evoland II - Nibiru Village Outdoors_98: 414079867
+      PC Computer - Evoland II - Nibiru Village Outdoors_6: -1268761888
+      PC Computer - Evoland II - Nibiru Village Outdoors_8: -266151872
+      PC Computer - Evoland II - Nibiru Village Outdoors_25: -1064460612
+      PC Computer - Evoland II - Nibiru Village Outdoors_82: -1742902642
+      PC Computer - Evoland II - Nibiru Village Outdoors_53: 2069788909
+      PC Computer - Evoland II - Nibiru Village Outdoors_34: 1349730329
+      PC Computer - Evoland II - Nibiru Village Outdoors_69: 995595942
+      PC Computer - Evoland II - Nibiru Village Outdoors_79: -1286990158
+      PC Computer - Evoland II - Nibiru Village Outdoors_17: -1954333134
+      PC Computer - Evoland II - Nibiru Village Outdoors_26: -1984833918
+      PC Computer - Evoland II - Nibiru Village Outdoors_97: 1234708611
+      PC Computer - Evoland II - Nibiru Village Outdoors_122: -1275240609
+      PC Computer - Evoland II - Nibiru Village Outdoors_41: -1307100143
+      PC Computer - Evoland II - Nibiru Village Outdoors_116: -333223028
+      PC Computer - Evoland II - Nibiru Village Outdoors_43: -965109392
+      PC Computer - Evoland II - Nibiru Village Outdoors_64: 1649279404
+      PC Computer - Evoland II - Nibiru Village Outdoors_59: 1479824598
+      PC Computer - Evoland II - Nibiru Village Outdoors_56: -2110351747
+      PC Computer - Evoland II - Nibiru Village Outdoors_80: -592880884
+      PC Computer - Evoland II - Nibiru Village Outdoors_63: 51036121
+      PC Computer - Evoland II - Nibiru Village Outdoors_45: -1161444443
+      PC Computer - Evoland II - Nibiru Village Outdoors_32: -1034431241
+      PC Computer - Evoland II - Nibiru Village Outdoors_29: -957112466
+      PC Computer - Evoland II - Nibiru Village Outdoors_38: 254748109
+      PC Computer - Evoland II - Nibiru Village Outdoors_57: 1574589672
+      PC Computer - Evoland II - Nibiru Village Outdoors_16: -2140712338
+      PC Computer - Evoland II - Nibiru Village Outdoors_31: -230569897
+      PC Computer - Evoland II - Nibiru Village Outdoors_35: -1752134916
+      PC Computer - Evoland II - Nibiru Village Outdoors_42: -2016611859
+      PC Computer - Evoland II - Nibiru Village Outdoors_52: 523045134
+      PC Computer - Evoland II - Nibiru Village Outdoors_21: -1018918750
+      PC Computer - Evoland II - Nibiru Village Outdoors_40: -952830349
+      PC Computer - Evoland II - Nibiru Village Outdoors_95: -402873354
+      PC Computer - Evoland II - Nibiru Village Outdoors_67: -1341696573
+      PC Computer - Evoland II - Nibiru Village Outdoors_86: 1501409998
+      PC Computer - Evoland II - Nibiru Village Outdoors_46: -1016903584
+      PC Computer - Evoland II - Nibiru Village Outdoors_72: -1210288616
+      PC Computer - Evoland II - Nibiru Village Outdoors_78: 1427802168
+      PC Computer - Evoland II - Nibiru Village Outdoors_101: -2114600344
+      PC Computer - Evoland II - Nibiru Village Outdoors_20: 469433298
+      PC Computer - Evoland II - Nibiru Village Outdoors_51: -886428474
+      PC Computer - Evoland II - Nibiru Village Outdoors_96: -1970951867
+      PC Computer - Evoland II - Nibiru Village Outdoors_58: 1861839323
+      PC Computer - Evoland II - Nibiru Village Outdoors_50: -101131237
+      PC Computer - Evoland II - Nibiru Village Outdoors_3: -2138607362
+      PC Computer - Evoland II - Nibiru Village Outdoors_100: -294879249
+      PC Computer - Evoland II - Nibiru Village Outdoors_7: -1031857750
+      PC Computer - Evoland II - Nibiru Village Outdoors_44: -1118451802
+      PC Computer - Evoland II - Nibiru Village Outdoors_121: 810004438
+      PC Computer - Evoland II - Nibiru Village Outdoors_48: 590752560
+      PC Computer - Evoland II - Nibiru Village Outdoors_70: 241619308
+      PC Computer - Evoland II - Nibiru Village Outdoors_55: -2128154188
+      PC Computer - Evoland II - Nibiru Village Outdoors_71: -677289619
+      PC Computer - Evoland II - Nibiru Village Outdoors_19: -1285301754
+      PC Computer - Evoland II - Nibiru Village Outdoors_14: -1194901078
+      PC Computer - Evoland II - Nibiru Village Outdoors_93: -1630113628
+      PC Computer - Evoland II - Nibiru Village Outdoors_83: 1435204840
+      PC Computer - Evoland II - Nibiru Village Outdoors_87: -381297121
+      PC Computer - Evoland II - Nibiru Village Outdoors_88: -1429116199
+      PC Computer - Evoland II - Nibiru Village Outdoors_118: -422016842
+      PC Computer - Evoland II - Nibiru Village Outdoors_33: -971291371
+      PC Computer - Evoland II - Nibiru Village Outdoors_111: -178764978
+      PC Computer - Evoland II - Nibiru Village Outdoors_47: -732906487
+      PC Computer - Evoland II - Nibiru Village Outdoors_90: 764247105
+      PC Computer - Evoland II - Nibiru Village Outdoors_28: -2536559
+      PC Computer - Evoland II - Nibiru Village Outdoors_89: 1891889164
+      PC Computer - Evoland II - Nibiru Village Outdoors_73: -2083291700
+      PC Computer - Evoland II - Nibiru Village Outdoors_113: -1101122819
+      PC Computer - Evoland II - Nibiru Village Outdoors_102: -821608406
+      PC Computer - Evoland II - Nibiru Village Outdoors_108: 1967434392
+      PC Computer - Evoland II - Nibiru Village Outdoors_5: -995483001
+      PC Computer - Evoland II - Nibiru Village Outdoors_74: 1911422307
+      PC Computer - Evoland II - Nibiru Village Outdoors_30: 1343495729
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

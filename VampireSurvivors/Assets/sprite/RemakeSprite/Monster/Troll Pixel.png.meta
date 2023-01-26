@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -115,7 +115,3157 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Troll Pixel_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1180
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2f2ae68cdf1fa409a65b8af6825f76
+      internalID: 1045850967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1023
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9794c62ed6b29e14d9c2d6f351fa58d4
+      internalID: 287412900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1018
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644fd7bc4ce377143aa4e354648183a7
+      internalID: -1965791189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1019
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58072f3291cc2f9418bedf551412d8f6
+      internalID: -215939484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_8
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1020
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211effc059f6e1d47988156e9421c1d9
+      internalID: -679037859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1021
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0624254789567534a9ca6cde59815d4a
+      internalID: 1455550991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_10
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1022
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9f779e2739adb4481f3195bf0d1a2c
+      internalID: 401334323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 927
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbbcd808e86af9428867519f94898e8
+      internalID: 1379275466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 927
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fc1617b4ef9c847bdd4eb5d0ce84c6
+      internalID: -1582693261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 927
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519e8c592c197834f97fa1e55571b171
+      internalID: 2066305629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 927
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0fc449ca0f2f54f87a403a2cd9e80a
+      internalID: 980627613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 927
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9926df522300b4392fdfa6afb1d644
+      internalID: 1297991025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_16
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 859
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361ac295cd8ea114294a25d93c6c5ff1
+      internalID: -996625558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_17
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 859
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6415a8f2cd878741998fdc33322edeb
+      internalID: -1872364981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_18
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 859
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd0928b0b85e2843b8c5fbb2c8c247c
+      internalID: 850216030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_19
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 859
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2304c84fa853fa44b8dbd25056e445b3
+      internalID: 1807202026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_20
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 859
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f446215c4eaa4349ad25cf8333f8faa
+      internalID: -522335411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_21
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 859
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41b407337f010040ace2849c64403f7
+      internalID: 1505438160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_22
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 859
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e606d8be828bb34f905c898ff8172b2
+      internalID: 842128639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_23
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 859
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0860e71af9b9525428033a212a742252
+      internalID: 897187967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_24
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 859
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765ede2408a48d648ab4d15941f4342f
+      internalID: -979557249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_25
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 859
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298109abeb3e83d4984ae10d5df3bed9
+      internalID: -1021832260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 854
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8196496ff9a280489b8579104fb1fbc
+      internalID: 1161890894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 854
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82408c14c4ffd954cb40e4b2ba687956
+      internalID: 1169740419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 854
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c4901be6fac104aa83de9f6b6f9c3f
+      internalID: -518143633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 854
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3c75c058bc366428ec891feef8d84b
+      internalID: 1744825895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 859
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882fed2cf0fcde047851f7ba75f439af
+      internalID: -456702757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 780
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a372ac7b0079ca4f9cf618bbe0e61e6
+      internalID: -592854644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75010eeb0358b784fb786a210fa9a8cc
+      internalID: 327336016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 780
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835fa1c0a8f3e4245a7d93dc8ebe060e
+      internalID: 1215034923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_34
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 780
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec403479af4e0de418bd0866dabf2da1
+      internalID: 1273314772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_35
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 720
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5c909bd27e3454a859b93040d78adb
+      internalID: 7851392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_36
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 719
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d64f6ddfad8db4e96822a668e13499
+      internalID: 2005506871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_37
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 719
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4def54cb5d38e684e866581b8dd367b8
+      internalID: 1640379887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 682
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff523301e0a1b164883700157ed11fd7
+      internalID: 373769338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_39
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 682
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b3214ee51981a4e9152f5ba4309a49
+      internalID: -545309647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_40
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 687
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58764292b20fec44c947ad78b29636de
+      internalID: 984042445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_41
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 682
+        width: 73
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd33a8289e755f4a930a9f2ce63b549
+      internalID: -2141008636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_42
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 687
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf421717c4e084c41b29f595d45ac7e5
+      internalID: -1575091485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 718
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6db65cb34eecbe4e9f3ed7ff76721e9
+      internalID: 1946880892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_44
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 719
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6174eb7d9eaa5104eb790e6f4fc9b825
+      internalID: 748432709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 720
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbac0aac6fa2ce43a71cef7d9a5ed68
+      internalID: 1995182595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_46
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 719
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a8de669643c9a49a92dffffd1e5c34
+      internalID: -1132908601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 598
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de38b01df5c1484e83f4ded9e5ddf1d
+      internalID: 746460085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_48
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 598
+        width: 111
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5adc63e9875ba84d81413f99a49c019
+      internalID: 1091845151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_49
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 598
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cffef9775c325a43b186aa239d25ccc
+      internalID: -446002477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_50
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 598
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6524c0ecf715f3d48b622404783d4609
+      internalID: 1554168214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_51
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 581
+        width: 70
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8037d4eb09392bf40809b3cc4fbde177
+      internalID: 766516940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_52
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 581
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b57b5c345500794d953466c1546809b
+      internalID: 792922083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_53
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 581
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6027fbbd492e04a9a907419712866d
+      internalID: 294110329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_54
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 581
+        width: 106
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cc1a7aa8b83c5419dddeee2ae2cf40
+      internalID: -1481977898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 518
+        width: 103
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f3a8376c18318459500ba21839c5d1
+      internalID: 148938129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_56
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 518
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0005a5128ff22e94ebba8c098d46c507
+      internalID: -783641034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_57
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 518
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886aaeedb2050604f99511e8fe5d967d
+      internalID: -430330249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_58
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 518
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5704ed13d6c96b44e8ef51dfdec5a3e6
+      internalID: -1066919785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_59
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 494
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc65c9f1daa531449b005e3151a81d3
+      internalID: 1315351280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_60
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 494
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d4f4ed9994d43489980eaefbea967e
+      internalID: -681251414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_61
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 489
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16428b165cb41842928143f618db67d
+      internalID: -1905815381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_62
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 489
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042133bfdc202dd4094d07ab0660809c
+      internalID: 1157942021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_63
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 489
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4288f3de242dc2544b51b34feecd8a14
+      internalID: 929556940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_64
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 489
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62698ce3c2c08004e8e19b341dd7c42d
+      internalID: -704256619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_65
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 494
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a88a339a4cec50488e13ec67f480971
+      internalID: 491286337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_66
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 494
+        width: 103
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9bcc680bb50564d839e1f14f0a8677
+      internalID: -1357329609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 409
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc2a6565c2bfab48bc540bb37b028e7
+      internalID: 1710507207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_68
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 409
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f602ef0593c41e4f927e1ff96b336e7
+      internalID: 1066064217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_69
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 409
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558fb9065549a9745bdc88ed57a865f8
+      internalID: 155767288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_70
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 409
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0075df73dcd314ba07a0dd9f8dc853
+      internalID: -428075131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_71
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 409
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cd170f3879fa847ac678d8c6acc6d2
+      internalID: -1550402672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_72
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 409
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819d741aa3a40564b964232be61151ee
+      internalID: -99141533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_73
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 409
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32f5efb49213a541b9c14d116f1d069
+      internalID: -1406067165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_74
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 409
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7280b8f60315804418bed00375b390cd
+      internalID: 524963361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_75
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 409
+        width: 116
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0892feaf9b006e4887cf8a63c36adc9
+      internalID: -453212163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_76
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 300
+        width: 69
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c5fb7a4f6947b4eb06367caf274166
+      internalID: -2022245206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_77
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 300
+        width: 69
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36174f4492bb73a4a838a73d5ccf1fbc
+      internalID: -2098568343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_78
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 300
+        width: 69
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3af4d25dafe77e4b938dd035c6a3f02
+      internalID: 563677046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_79
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 300
+        width: 69
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6648b586a00ccce4bbbacc2da64ffa13
+      internalID: 1370085961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_80
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 300
+        width: 69
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcf9964ed885d64cba0e9b58f676faa
+      internalID: 769136690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_81
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 300
+        width: 69
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f2a1c58a4bf124a96d5f49b65b6f45
+      internalID: 1385658881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_82
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 300
+        width: 69
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc405ded9112e541892320caf8c5c73
+      internalID: -279082968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_83
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 300
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6768b434ecfd34f4bb76a2d558dd40bd
+      internalID: -410440374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 325
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ad11f173fc1d446a4379104d72b254
+      internalID: 1280905366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 300
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27ebce79adc84a49896818d69ca1e5a
+      internalID: 92022797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_86
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 300
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f14cadd6fe35a439d83ee5f17c2f53
+      internalID: 2062166597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_87
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 300
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec3c4af4202ce14382d5b9447d26c6f
+      internalID: 1798497995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_88
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 325
+        width: 108
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2699904512c8f44eb977270cd2f2535
+      internalID: 1690311641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_89
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 329
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4393527a8720a49ad1143dc16c7bc9
+      internalID: -635718429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_90
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 329
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78919cf800c88f54c9b6f92edb37543a
+      internalID: 568040602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_91
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 329
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc8c70aae271fb4ba5dd68d63498551
+      internalID: 283562706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_92
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 329
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22fb43fbb8fdea49b8436dbd2cdc6b4
+      internalID: 268395863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_93
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 340
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdbedc30045dc24b97058b626fa14ce
+      internalID: 602143652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_94
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 214
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489ad0225a87cda4a8fded0f4dd71371
+      internalID: -64442177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_95
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 214
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0803180fbbaa4204e8af359ebaccddbd
+      internalID: 32653846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 214
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d45196e1d927304899b4e088735705a
+      internalID: 679322627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_97
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 219
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364c11fefe025a54bbfd5455ace7b5c9
+      internalID: -1330915555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_98
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 219
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbb5bebe5b78e449bea81d27363129b
+      internalID: 1974126868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_99
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 219
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60139fde3d84d3742bae30b78527e544
+      internalID: 1581093783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_100
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 219
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1018c4b0f1ee764eb3a204fb24864e8
+      internalID: -953330926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_101
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 219
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ba969dafd39fe44a33b8d860f83ad9
+      internalID: -2119845821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_102
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 219
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242bcc892e4805b47873ae6bc9cc3748
+      internalID: 497769295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_103
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 219
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54df78bf2a4c1c944a966d4189e67f75
+      internalID: 1469367327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_104
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 219
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f9ba2e50635e941a7024dd8f4481f7
+      internalID: -531585505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_105
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 219
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b311242bc5179454f8d96fcd49feb2b2
+      internalID: 1015929788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_106
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 219
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b8b3bd9dc6da244a6e0edb4a6f039c
+      internalID: -105702980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_107
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 219
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edab5ed823c7ca347816302498722a83
+      internalID: 1230294542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_108
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 219
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b105b818d342dab4daccbb1d71722c51
+      internalID: -1632728196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_109
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 219
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e11566d5f5be54486188b455ce3cc3
+      internalID: 235184821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_110
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 219
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f8248958cc3bb47b319f7999adf341
+      internalID: -1779739070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_111
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 219
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0481f807e6046e64f928cd522d2cacd8
+      internalID: 1009224039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_112
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 219
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2469b03a772f541946cef24cc92a7d
+      internalID: -266377710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_113
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 219
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636c1f6e19a330c46bf3e6bf531084b2
+      internalID: 692255460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_114
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 219
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1715e7fecb756d04089cc1a9130a7746
+      internalID: -700133224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_115
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04010620313098f489e034780d236b92
+      internalID: 819534899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_116
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 141
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f63622905a4b848aae6c8c1c3b28b2
+      internalID: 1025944831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_117
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 141
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0455edffd7c1cef489699a3e865a77a7
+      internalID: 297964773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_118
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 68
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c805f6147f53cdf45b05d6004112a067
+      internalID: -1907533050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_119
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 68
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30e9578fa8256048ba56d3edc581d8d
+      internalID: -724639991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_120
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 68
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58421d0295039a24db0869ef0510a357
+      internalID: 281677841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_121
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 68
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b151df58a06f7514a910f7f9dc33e51a
+      internalID: -1525053950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_122
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 68
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cfd99a5eb51e7448bee01588ffcea9
+      internalID: -2124535464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_123
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 68
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fa7796ded38ee46a2e8b123093057b
+      internalID: -2032254367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_124
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 68
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023711210fa7ab64bbbaf17284419dfb
+      internalID: -64223641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_125
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 68
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d9d9a8e631a3a4bbe7f4f93cd19576
+      internalID: 783863610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_126
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 68
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7abbe48d372f9640a38dcd64b1dd63b
+      internalID: -1993765939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_127
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 68
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b7c58d93770a34889c6fb39623bd29
+      internalID: -77832146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_128
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 68
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ab643637c147944acdbd4611ab2409
+      internalID: -22211794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_129
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 68
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f85fefa875c5f49bf1d7080e7bfa5a
+      internalID: 614102293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_130
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 73
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c2496fa5a496046b4a1fe33e78e95b
+      internalID: 1468136659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_131
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 73
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb40c7d7015b804e886e5632a883e4c
+      internalID: -229433191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_132
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 73
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733a0b7d400640345b7acf424ad06775
+      internalID: -1717711590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_133
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 73
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f49b89bee2807543a00f8c20938dfe8
+      internalID: -1844953364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_134
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 73
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782d206a43d6fa94fa8ba658a478f140
+      internalID: 2016093270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_135
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 73
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f217e49f1a852c14b9a8546657881523
+      internalID: 1132639288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_136
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58acde9a4c1899478003b3bdc2e5f7f
+      internalID: 1140817811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_137
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 68
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d2f326129385645b54c69605615466
+      internalID: 1562215290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_138
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 68
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46b4f34f23bae7478b444fd81d45b43
+      internalID: 1187663011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_139
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcca3eb186c69a4e88cf1fde1e28636
+      internalID: -1677764028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_140
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08033e1a6e3d045409bed163528f7a6d
+      internalID: -2060152189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_141
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b3bce965a85e348b83d810f47ca642
+      internalID: 1307600591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_142
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba976c48e216924793eaf7a0b0c7eb9
+      internalID: 1926443647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_143
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeebd4108b3097447a2ed411e6726491
+      internalID: 1926010207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_144
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5129513075de214483efb6599053d3c
+      internalID: 613051775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_145
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bed90e9e2d8b149aa7d8d85f308cb0
+      internalID: -751147988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_146
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 0
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2091e1f64f898b64b97309bae50b73ac
+      internalID: 1112516855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_147
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007085ec81ba2d444a818594f651186f
+      internalID: -1445015677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_148
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 0
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b80a978674d124aac730812b016a96
+      internalID: 224246388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_149
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bc95ec0eb82964783698ada68c14f1
+      internalID: 190431277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_150
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc002b011f75670438efb4bff9699e5e
+      internalID: -677662678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_151
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 0
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc855cc7b335861428c56ab038683a7e
+      internalID: -1451384602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_152
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 0
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0573d25bc69a69c438218d02eaac96a6
+      internalID: -724533331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troll Pixel_153
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0c4f056a512ef428b3b44312dd6eec
+      internalID: 627454733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +3276,161 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Troll Pixel_147: -1445015677
+      Troll Pixel_41: -2141008636
+      Troll Pixel_150: -677662678
+      Troll Pixel_123: -2032254367
+      Troll Pixel_87: 1798497995
+      Troll Pixel_63: 929556940
+      Troll Pixel_151: -1451384602
+      Troll Pixel_146: 1112516855
+      Troll Pixel_20: -522335411
+      Troll Pixel_35: 7851392
+      Troll Pixel_80: 769136690
+      Troll Pixel_1: 268778348
+      Troll Pixel_97: -1330915555
+      Troll Pixel_17: -1872364981
+      Troll Pixel_145: -751147988
+      Troll Pixel_99: 1581093783
+      Troll Pixel_94: -64442177
+      Troll Pixel_6: -1965791189
+      Troll Pixel_50: 1554168214
+      Troll Pixel_30: -456702757
+      Troll Pixel_93: 602143652
+      Troll Pixel_86: 2062166597
+      Troll Pixel_39: -545309647
+      Troll Pixel_62: 1157942021
+      Troll Pixel_129: 614102293
+      Troll Pixel_88: 1690311641
+      Troll Pixel_43: 1946880892
+      Troll Pixel_44: 748432709
+      Troll Pixel_106: -105702980
+      Troll Pixel_75: -453212163
+      Troll Pixel_114: -700133224
+      Troll Pixel_138: 1187663011
+      Troll Pixel_16: -996625558
+      Troll Pixel_65: 491286337
+      Troll Pixel_36: 2005506871
+      Troll Pixel_28: -518143633
+      Troll Pixel_103: 1469367327
+      Troll Pixel_136: 1140817811
+      Troll Pixel_111: 1009224039
+      Troll Pixel_73: -1406067165
+      Troll Pixel_126: -1993765939
+      Troll Pixel_78: 563677046
+      Troll Pixel_4: 555670755
+      Troll Pixel_5: 287412900
+      Troll Pixel_26: 1161890894
+      Troll Pixel_61: -1905815381
+      Troll Pixel_84: 1280905366
+      Troll Pixel_72: -99141533
+      Troll Pixel_68: 1066064217
+      Troll Pixel_33: 1215034923
+      Troll Pixel_121: -1525053950
+      Troll Pixel_23: 897187967
+      Troll Pixel_142: 1926443647
+      Troll Pixel_0: 1045850967
+      Troll Pixel_90: 568040602
+      Troll Pixel_115: 819534899
+      Troll Pixel_132: -1717711590
+      Troll Pixel_140: -2060152189
+      Troll Pixel_125: 783863610
+      Troll Pixel_66: -1357329609
+      Troll Pixel_118: -1907533050
+      Troll Pixel_71: -1550402672
+      Troll Pixel_14: 980627613
+      Troll Pixel_47: 746460085
+      Troll Pixel_76: -2022245206
+      Troll Pixel_107: 1230294542
+      Troll Pixel_67: 1710507207
+      Troll Pixel_46: -1132908601
+      Troll Pixel_56: -783641034
+      Troll Pixel_64: -704256619
+      Troll Pixel_96: 679322627
+      Troll Pixel_83: -410440374
+      Troll Pixel_59: 1315351280
+      Troll Pixel_29: 1744825895
+      Troll Pixel_31: -592854644
+      Troll Pixel_104: -531585505
+      Troll Pixel_89: -635718429
+      Troll Pixel_109: 235184821
+      Troll Pixel_116: 1025944831
+      Troll Pixel_120: 281677841
+      Troll Pixel_9: 1455550991
+      Troll Pixel_13: 2066305629
+      Troll Pixel_122: -2124535464
+      Troll Pixel_34: 1273314772
+      Troll Pixel_70: -428075131
+      Troll Pixel_85: 92022797
+      Troll Pixel_149: 190431277
+      Troll Pixel_92: 268395863
+      Troll Pixel_143: 1926010207
+      Troll Pixel_24: -979557249
+      Troll Pixel_148: 224246388
+      Troll Pixel_12: -1582693261
+      Troll Pixel_144: 613051775
+      Troll Pixel_102: 497769295
+      Troll Pixel_15: 1297991025
+      Troll Pixel_153: 627454733
+      Troll Pixel_152: -724533331
+      Troll Pixel_27: 1169740419
+      Troll Pixel_55: 148938129
+      Troll Pixel_25: -1021832260
+      Troll Pixel_110: -1779739070
+      Troll Pixel_135: 1132639288
+      Troll Pixel_10: 401334323
+      Troll Pixel_18: 850216030
+      Troll Pixel_117: 297964773
+      Troll Pixel_45: 1995182595
+      Troll Pixel_91: 283562706
+      Troll Pixel_11: 1379275466
+      Troll Pixel_7: -215939484
+      Troll Pixel_22: 842128639
+      Troll Pixel_57: -430330249
+      Troll Pixel_40: 984042445
+      Troll Pixel_3: 469288704
+      Troll Pixel_2: 1737869049
+      Troll Pixel_134: 2016093270
+      Troll Pixel_95: 32653846
+      Troll Pixel_101: -2119845821
+      Troll Pixel_77: -2098568343
+      Troll Pixel_128: -22211794
+      Troll Pixel_19: 1807202026
+      Troll Pixel_124: -64223641
+      Troll Pixel_37: 1640379887
+      Troll Pixel_79: 1370085961
+      Troll Pixel_139: -1677764028
+      Troll Pixel_105: 1015929788
+      Troll Pixel_112: -266377710
+      Troll Pixel_53: 294110329
+      Troll Pixel_69: 155767288
+      Troll Pixel_74: 524963361
+      Troll Pixel_131: -229433191
+      Troll Pixel_58: -1066919785
+      Troll Pixel_137: 1562215290
+      Troll Pixel_133: -1844953364
+      Troll Pixel_130: 1468136659
+      Troll Pixel_108: -1632728196
+      Troll Pixel_51: 766516940
+      Troll Pixel_32: 327336016
+      Troll Pixel_21: 1505438160
+      Troll Pixel_127: -77832146
+      Troll Pixel_42: -1575091485
+      Troll Pixel_98: 1974126868
+      Troll Pixel_141: 1307600591
+      Troll Pixel_119: -724639991
+      Troll Pixel_8: -679037859
+      Troll Pixel_54: -1481977898
+      Troll Pixel_48: 1091845151
+      Troll Pixel_113: 692255460
+      Troll Pixel_38: 373769338
+      Troll Pixel_60: -681251414
+      Troll Pixel_52: 792922083
+      Troll Pixel_82: -279082968
+      Troll Pixel_81: 1385658881
+      Troll Pixel_49: -446002477
+      Troll Pixel_100: -953330926
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
