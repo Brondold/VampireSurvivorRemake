@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8100395035719598537}
   - component: {fileID: 2867760110912441348}
   - component: {fileID: -8015126212235612037}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Pilar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 3161840543720767605}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 4.19759, y: 2.7193966, z: 0}
-  m_LocalScale: {x: 3.5472646, y: 3.5472646, z: 3.5500598}
+  m_LocalScale: {x: 2.0787778, y: 2.0787778, z: 2.0787778}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -98,7 +98,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0015332475, y: -0.0044108033}
+  m_Offset: {x: 0.00021709502, y: 0.000977099}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -109,5 +109,5 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.27051675, y: 0.5244601}
+  m_Size: {x: 0.25784287, y: 0.5227877}
   m_EdgeRadius: 0

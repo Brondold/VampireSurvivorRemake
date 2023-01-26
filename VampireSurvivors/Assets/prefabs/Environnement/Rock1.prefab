@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2867760110912441348}
   - component: {fileID: -8015126212235612037}
   m_Layer: 6
-  m_Name: Statue
+  m_Name: Rock1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 3161840543720767605}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 4.19759, y: 2.7193966, z: 0}
-  m_LocalScale: {x: 2.6478665, y: 2.6478665, z: 2.6478665}
+  m_LocalScale: {x: 3.5472646, y: 3.5472646, z: 3.5500598}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -74,7 +74,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 813201799, guid: a2d61c70bee596a499baf21baee00c64, type: 3}
+  m_Sprite: {fileID: -1552140645, guid: a2d61c70bee596a499baf21baee00c64, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -92,22 +92,22 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3161840543720767605}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0010861158, y: 0.00043082237}
+  m_Offset: {x: -0.0015332475, y: -0.0044108033}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.37, y: 0.72}
+    oldSize: {x: 0.26, y: 0.52}
     newSize: {x: 3, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.38130927, y: 0.72292495}
+  m_Size: {x: 0.27051675, y: 0.5244601}
   m_EdgeRadius: 0
