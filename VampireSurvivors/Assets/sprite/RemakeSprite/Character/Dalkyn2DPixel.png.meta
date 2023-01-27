@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 28196374bb54dae48bab146aa16fe763
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2806b53657e7444fac5c59e3d757174
+      internalID: -1871174480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7764842cc9c223a409fc4814bad1ddd5
+      internalID: 1628373204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63ce716c2fb37b4b93a15487b77ce2f
+      internalID: 334465359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cf1d9a41ec94b4dbb3607f83685275
+      internalID: -2026979619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c866f34bcfa72e479b23224e0b51cbc
+      internalID: -2005188341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 304
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a38f623424bb564a85a326ff9daee87
+      internalID: 535841260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4379c12ca752704f9824a29154baa6f
+      internalID: -191804439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 285
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d855c13c14162c6489ad6f01e2c51dc1
+      internalID: 1961725758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8996d09a492cf44886e5482204570a
+      internalID: -1446001830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5c755e3f79c024ea670163a48864ed
+      internalID: -1600891424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8860d8ed7955e488dc194e69568277
+      internalID: -1900819932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 236
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef891dc769590a74796964d28555569a
+      internalID: 1976181283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 208
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf0521b65eaadb47958af032c28eb27
+      internalID: -1417154565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 231
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287dfb7dcc8dcaf449600ba0dfb69fd1
+      internalID: -741015617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_37
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 208
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceaea298b4a08a45882234e8fd06d20
+      internalID: 888602826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 228
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3d7d15daf78d14baf5357336133771
+      internalID: 430963344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_39
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 236
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919e340571d971a44b141b0e9999c0c3
+      internalID: 1193124127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 228
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e944437a23aae9543a89d8698411bb75
+      internalID: 933559443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 236
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a378955618004664eb48edbfddb01bbd
+      internalID: 2000853128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 194
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a0edd70a5ebba4da8782f083e1e11f
+      internalID: 836295213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_43
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 194
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6b41f3f3750b34c8df36ed9123d320
+      internalID: 351342505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_44
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 220
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4555c29cb78b064a876faf7a465f4cc
+      internalID: -1329316817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_45
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 232
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b58d5df7a7449458631805a936331c
+      internalID: -343343677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_46
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 192
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab3f3debf8c1ed4bbbfdc46ca6835bb
+      internalID: -1589952884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_47
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 168
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e44df5ad939877498cdf1f6a48adec7
+      internalID: 772728652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_48
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 192
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1478f26dd1e7e446844bc8c37fda633
+      internalID: 627170892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da1170dc5dcd7546924d53d45f6ea3f
+      internalID: -188254941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 192
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1381e101b1f19304a9c6ff4ea75ef6ec
+      internalID: -889669154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 96
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d96ee3fb05b2874d94246f766a30223
+      internalID: -1066252479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_52
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 143
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0d28cd83da59e4e9f683c0e9d2c61a
+      internalID: -272886462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c969bd737c7104c807e24b0ed1c61b
+      internalID: -1955390071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_54
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 184
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e201941cdcc564a83e6cf6dc8bda6c
+      internalID: 2095107468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 156
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff08f12624af8eb45b02592ed4390209
+      internalID: -396958491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 156
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c930f3e3ce3f70240828142aea34f04f
+      internalID: 148999214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 180
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c7f40c8177ca04a8e8fdf2eba528bf
+      internalID: -1978534804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_58
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 160
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d193a6504772b5429a51868414d8ecd
+      internalID: -376562800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 180
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84dcff981da13f41a91d76e491413c1
+      internalID: 1080132792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_60
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 80
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f0ff0dc0310f74e96cd58b644768f7
+      internalID: -482924494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_61
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 164
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ecd41ba003d2b46bf5a488d7aaad51
+      internalID: -2093440322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_62
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 154
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a1f16a783c6f341a788f52f9e96582
+      internalID: 1676107908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 156
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58efd8e99a6da641a174fe21cca2dbb
+      internalID: 1173832727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 136
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d0c24634dc21c4b9f66ef9987da209
+      internalID: -1412586414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_65
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 128
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425d74794022dfe448f13fb854241b9e
+      internalID: 640490561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_66
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 128
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626a23ec49e2dea42909c30c5d8ecbf2
+      internalID: 515391477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_67
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 148
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a842b98b481211147b7ce677de06a2bc
+      internalID: -1975754680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_68
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 128
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b821f5783ea5c54da4ad923cf9dec11
+      internalID: 775169998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_69
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 96
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25a8a1a3a0043b409bc6f6fa3a91c5f
+      internalID: -248986710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_70
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 132
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220912ce3872fc044ab5ab6997ab4db6
+      internalID: -429644492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_71
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 126
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82ae05f81229f844a0deb6733013036
+      internalID: 1526284470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_72
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 136
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f450cd0504243824895c51fa5695bbe9
+      internalID: 607580182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3798439f15b06e48a2e55e77f9a48d7
+      internalID: 736264222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2878d83d4145c41a6bfdfb637dc0d5
+      internalID: -1762225153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_75
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 96
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2701ab9f2db91fe43bcb0680ef5ed2c3
+      internalID: 1846004337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_76
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091dca2f7493ff94e88e1182aab02734
+      internalID: -1487593781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bdb3bee4156764eb2f6bf395623eef
+      internalID: 1619124169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21e6ba6369418a4dbd8a826942f337d
+      internalID: 960081247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_79
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 16
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0c63fc9bddcdd44a35e9a7e571ced3
+      internalID: 1648563536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_80
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 32
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c5d87e1c4d60645baf50b7fac70996
+      internalID: 144883521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_81
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72336429b0a5ada42bb9cea5d37c5d6b
+      internalID: 1926016807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_82
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f01bd825ed2bd2498cb4f15f4070f17
+      internalID: 960201202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_83
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 15
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596bce0160d8f1c48a31356f480e2372
+      internalID: -337462237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dalkyn2DPixel_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e140afc61a0b40f4abb19b21b891a18d
+      internalID: 684432838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dalkyn2DPixel_0: -1871174480
+      Dalkyn2DPixel_7: 744859452
+      Dalkyn2DPixel_64: -1412586414
+      Dalkyn2DPixel_20: 1961725758
+      Dalkyn2DPixel_1: 684432838
+      Dalkyn2DPixel_72: 607580182
+      Dalkyn2DPixel_47: 772728652
+      Dalkyn2DPixel_23: 609554973
+      Dalkyn2DPixel_55: -396958491
+      Dalkyn2DPixel_4: -104917555
+      Dalkyn2DPixel_33: -1900819932
+      Dalkyn2DPixel_71: 1526284470
+      Dalkyn2DPixel_58: -376562800
+      Dalkyn2DPixel_19: -191804439
+      Dalkyn2DPixel_61: -2093440322
+      Dalkyn2DPixel_30: -802839867
+      Dalkyn2DPixel_43: 351342505
+      Dalkyn2DPixel_51: -1066252479
+      Dalkyn2DPixel_3: 1544115726
+      Dalkyn2DPixel_16: -2026979619
+      Dalkyn2DPixel_59: 1080132792
+      Dalkyn2DPixel_65: 640490561
+      Dalkyn2DPixel_52: -272886462
+      Dalkyn2DPixel_2: 514800765
+      Dalkyn2DPixel_25: -1600891424
+      Dalkyn2DPixel_79: 1648563536
+      Dalkyn2DPixel_21: -1446001830
+      Dalkyn2DPixel_77: 1619124169
+      Dalkyn2DPixel_57: -1978534804
+      Dalkyn2DPixel_68: 775169998
+      Dalkyn2DPixel_48: 627170892
+      Dalkyn2DPixel_36: -741015617
+      Dalkyn2DPixel_46: -1589952884
+      Dalkyn2DPixel_60: -482924494
+      Dalkyn2DPixel_18: 535841260
+      Dalkyn2DPixel_5: -1531666641
+      Dalkyn2DPixel_62: 1676107908
+      Dalkyn2DPixel_9: 2031340658
+      Dalkyn2DPixel_73: 736264222
+      Dalkyn2DPixel_75: 1846004337
+      Dalkyn2DPixel_34: 1976181283
+      Dalkyn2DPixel_8: -438072617
+      Dalkyn2DPixel_83: -337462237
+      Dalkyn2DPixel_14: 1628373204
+      Dalkyn2DPixel_28: -963289911
+      Dalkyn2DPixel_32: -15936076
+      Dalkyn2DPixel_42: 836295213
+      Dalkyn2DPixel_49: -188254941
+      Dalkyn2DPixel_66: 515391477
+      Dalkyn2DPixel_70: -429644492
+      Dalkyn2DPixel_6: 1005105501
+      Dalkyn2DPixel_15: 334465359
+      Dalkyn2DPixel_50: -889669154
+      Dalkyn2DPixel_63: 1173832727
+      Dalkyn2DPixel_82: 960201202
+      Dalkyn2DPixel_76: -1487593781
+      Dalkyn2DPixel_74: -1762225153
+      Dalkyn2DPixel_78: 960081247
+      Dalkyn2DPixel_31: -1820345244
+      Dalkyn2DPixel_44: -1329316817
+      Dalkyn2DPixel_10: 998224458
+      Dalkyn2DPixel_38: 430963344
+      Dalkyn2DPixel_40: 933559443
+      Dalkyn2DPixel_29: 1377472831
+      Dalkyn2DPixel_11: -1285987451
+      Dalkyn2DPixel_17: -2005188341
+      Dalkyn2DPixel_80: 144883521
+      Dalkyn2DPixel_22: 685569361
+      Dalkyn2DPixel_69: -248986710
+      Dalkyn2DPixel_56: 148999214
+      Dalkyn2DPixel_26: -28257103
+      Dalkyn2DPixel_81: 1926016807
+      Dalkyn2DPixel_12: 1895475571
+      Dalkyn2DPixel_67: -1975754680
+      Dalkyn2DPixel_35: -1417154565
+      Dalkyn2DPixel_54: 2095107468
+      Dalkyn2DPixel_53: -1955390071
+      Dalkyn2DPixel_24: 1793745024
+      Dalkyn2DPixel_37: 888602826
+      Dalkyn2DPixel_41: 2000853128
+      Dalkyn2DPixel_39: 1193124127
+      Dalkyn2DPixel_45: -343343677
+      Dalkyn2DPixel_27: 311867572
+      Dalkyn2DPixel_13: -872950748
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
