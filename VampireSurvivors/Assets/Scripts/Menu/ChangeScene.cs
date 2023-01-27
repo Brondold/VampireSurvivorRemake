@@ -10,6 +10,7 @@ public class ChangeScene : MonoBehaviour
     public GameObject MenuOptions;
     public GameObject MenuCredits;
     public GameObject MenuCommands;
+    public GameObject Levels;
     
     public void MoveToScene(int sceneID)
     {
@@ -22,7 +23,16 @@ public class ChangeScene : MonoBehaviour
     }
     public void ButtonClicked(string _String)
     {
-
+        if (_String == "Levels Button")
+        {
+            MainMenu.SetActive(false);
+            Levels.SetActive(true);
+        }
+        if (_String == "Return From Levels Button")
+        {
+            MainMenu.SetActive(true);
+            Levels.SetActive(false);
+        }
         if (_String == "Credits Button")
         {
             MainMenu.SetActive(false);

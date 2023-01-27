@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 775bf7e7127369d40a6ab17a9fffb594, type: 3}
-  m_Name: Stage2Data
+  m_Name: Stage3Data
   m_EditorClassIdentifier: 
   stageEvents:
   - eventType: 1
@@ -24,43 +24,49 @@ MonoBehaviour:
     message: 
     enemyToSpawn: {fileID: 11400000, guid: 9bb5b02ec36ff39478964dc17d87eb29, type: 2}
     objectToSpawn: {fileID: 0}
-    count: 30
+    count: 50
   - eventType: 0
     time: 35
     message: 
     enemyToSpawn: {fileID: 11400000, guid: 9bb5b02ec36ff39478964dc17d87eb29, type: 2}
     objectToSpawn: {fileID: 0}
-    count: 40
+    count: 70
   - eventType: 0
     time: 45
     message: 
     enemyToSpawn: {fileID: 11400000, guid: b4ec3363fbf880543a1a2092ad83aaa9, type: 2}
     objectToSpawn: {fileID: 0}
-    count: 40
+    count: 60
   - eventType: 0
     time: 55
     message: 
     enemyToSpawn: {fileID: 11400000, guid: b4ec3363fbf880543a1a2092ad83aaa9, type: 2}
     objectToSpawn: {fileID: 0}
-    count: 60
+    count: 80
+  - eventType: 0
+    time: 60
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: 9bb5b02ec36ff39478964dc17d87eb29, type: 2}
+    objectToSpawn: {fileID: 0}
+    count: 100
   - eventType: 0
     time: 70
     message: 
     enemyToSpawn: {fileID: 11400000, guid: b85c8b9b8aa4ef34e8e171b739415fd8, type: 2}
     objectToSpawn: {fileID: 0}
-    count: 3
+    count: 6
   - eventType: 0
     time: 85
     message: 
     enemyToSpawn: {fileID: 11400000, guid: b4ec3363fbf880543a1a2092ad83aaa9, type: 2}
     objectToSpawn: {fileID: 0}
-    count: 60
+    count: 80
   - eventType: 0
     time: 100
     message: 
     enemyToSpawn: {fileID: 11400000, guid: b85c8b9b8aa4ef34e8e171b739415fd8, type: 2}
     objectToSpawn: {fileID: 0}
-    count: 5
+    count: 10
   - eventType: 2
     time: 130
     message: 
