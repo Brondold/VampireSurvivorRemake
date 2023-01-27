@@ -158,9 +158,9 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 91.1144, y: 31.136703}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -45.55725, y: -15.568298}
+  m_SizeDelta: {x: 102.2214, y: 45.5758}
+  m_Pivot: {x: 0.0000000037252903, y: -0.000000022351742}
 --- !u!114 &18261683
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9826,7 +9826,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1304360396
 RectTransform:
   m_ObjectHideFlags: 0
@@ -16223,13 +16223,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1786508067}
+  - component: {fileID: 1786508068}
   m_Layer: 5
   m_Name: ToolTip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1786508067
 RectTransform:
   m_ObjectHideFlags: 0
@@ -16252,6 +16253,19 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1786508068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1786508066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f709812acab683049b236b77249cea66, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uiCamera: {fileID: 0}
 --- !u!1 &1824492753
 GameObject:
   m_ObjectHideFlags: 0
