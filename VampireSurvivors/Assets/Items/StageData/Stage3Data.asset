@@ -20,6 +20,18 @@ MonoBehaviour:
     objectToSpawn: {fileID: 1147321818965292453, guid: 7a95dd6b132a09641ac793dfca4620ef, type: 3}
     count: 5
   - eventType: 0
+    time: 10
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: 9bb5b02ec36ff39478964dc17d87eb29, type: 2}
+    objectToSpawn: {fileID: 0}
+    count: 50
+  - eventType: 0
+    time: 15
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: b4ec3363fbf880543a1a2092ad83aaa9, type: 2}
+    objectToSpawn: {fileID: 0}
+    count: 40
+  - eventType: 0
     time: 25
     message: 
     enemyToSpawn: {fileID: 11400000, guid: 9bb5b02ec36ff39478964dc17d87eb29, type: 2}
@@ -67,8 +79,14 @@ MonoBehaviour:
     enemyToSpawn: {fileID: 11400000, guid: b85c8b9b8aa4ef34e8e171b739415fd8, type: 2}
     objectToSpawn: {fileID: 0}
     count: 10
+  - eventType: 0
+    time: 115
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: b4ec3363fbf880543a1a2092ad83aaa9, type: 2}
+    objectToSpawn: {fileID: 0}
+    count: 70
   - eventType: 2
-    time: 130
+    time: 140
     message: 
     enemyToSpawn: {fileID: 0}
     objectToSpawn: {fileID: 0}
