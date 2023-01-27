@@ -7,6 +7,9 @@ public class UpgradePanelManager : MonoBehaviour
     [SerializeField] GameObject panel;
     PauseManager pauseManager;
     [SerializeField] List<UpgradeButton> upgradeButtons;
+    [SerializeField] ParticleSystem particleslevelup1;
+    [SerializeField] ParticleSystem particleslevelup2;
+
     private void Awake()
     {
         pauseManager = GetComponent<PauseManager>();
@@ -21,8 +24,9 @@ public class UpgradePanelManager : MonoBehaviour
         Clean();
         pauseManager.PauseGame();
         panel.SetActive(true);
+        particleslevelup1.Play();
+        particleslevelup2.Play();
 
-       
         for (int i = 0; i < upgradeDatas.Count; i++)
         {
             upgradeButtons[i].gameObject.SetActive(true);
